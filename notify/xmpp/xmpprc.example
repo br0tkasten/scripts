@@ -1,0 +1,12 @@
+# copy to ~/.xmpprc
+
+
+# XMPP server domain
+server   = "example.org"
+
+# XMPP port
+port     = "5222"
+
+username = "xmpp-user"
+password = "s3cr3t"
+resource = "cli-client"
